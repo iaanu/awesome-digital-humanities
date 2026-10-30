@@ -11,7 +11,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [Bibliography and Sources Management](#bibliography-and-sources-management)
 - [Corpus linguistics](#corpus-linguistics)
 - [Data Collection](#data-collection)
-- [Data Analysis](#data-analysis)
+- [Data Analysis](- [Universal Hyperdimensional Numeric Engine](https://iaanu.github.io/-Universal-Hyperdimensional-Numeric-Engine/index.html) - An open-source computational runtime and framework designed to formalize, validate, and compute language-native and indigenous numerical systems.)
 - [Data Extraction and Conversion](#data-extraction-and-conversion)
 - [Data Annotation](#data-annotation)
 - [DH Centers](#dh-centers)

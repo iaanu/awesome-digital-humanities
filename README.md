@@ -1,3 +1,12 @@
+### Description of Changes
+I would love to propose adding the Universal Hyperdimensional Numeric Engine (UHNE) to this list under the digital humanities tool resources. 
+
+### Why this project fits:
+The UHNE is an open scholarly resource and logic-ready computational framework that transforms language-native numerical structures into computable infrastructure. Its current working prototype, Ònkà Yorùbá 1.0, serves as a digital humanities reference for multilingual computing, cognitive scaling rules, and indigenous numerical representation.
+
+As an open science project designed for researchers, educators, and language-tech developers, it perfectly aligns with the high-quality, open-source resources curated in this list. 
+
+Thank you for your time and review!
 # Awesome Digital Humanities [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="android-chrome-512x512.png" align="right" width="100">](https://github.com/dh-tech/awesome-digital-humanities/)
@@ -51,7 +60,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [Webrecorder](https://webrecorder.net/) - Web archiving service to save web pages.
 
 ## Data Analysis
-
+- [Universal Hyperdimensional Numeric Engine](https://iaanu.github.io/-Universal-Hyperdimensional-Numeric-Engine/index.html) - An open-source computational runtime and framework designed to formalize, validate, and compute language-native and indigenous numerical systems.
 - [Allmaps](https://allmaps.org/) - Curating, georeferencing and exploring for IIIF maps.
 - [Breve](https://hdlab.stanford.edu/breve/) - Visualize and edit tabular data.
 - [Data Pen](https://hdlab.stanford.edu/data-pen/) - Framework for humanities researchers to access, explore, and manipulate multidimensional historical data.
